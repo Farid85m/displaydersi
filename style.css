@@ -1,7 +1,7 @@
-body{
-    margin: 0%;
-    padding: 0%;
-    box-sizing: border-box;
+body {
+  margin: 0%;
+  padding: 0%;
+  box-sizing: border-box;
 }
 .container1 {
   display: flex;
@@ -35,8 +35,8 @@ body{
   display: flex;
   justify-content: center;
   align-items: center;
-  width:20%;
+  width: 20%;
   height: 100px;
-  background-color: aquamarine;
-  border: 1px solid goldenrod;
+  background-color: rgb(31, 255, 199);
+  border: 1px solid rgb(0, 17, 255);
 }
